@@ -19,6 +19,6 @@ public class Proveedor extends Persona{
     }
     
     public void Adquirir(){
-        System.out.println("El proveedor adquirió el producto.");
+        System.out.println("Se ha adquirido el producto del proveedor.");
     }
 }

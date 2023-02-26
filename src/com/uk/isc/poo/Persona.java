@@ -4,8 +4,6 @@
  */
 package com.uk.isc.poo;
 
-import com.sun.xml.internal.messaging.saaj.packaging.mime.util.OutputUtil;
-
 /**
  *
  * @author Juanito
